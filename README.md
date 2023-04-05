@@ -1,11 +1,12 @@
 # cityExplore
 # cityExplore
-practicing <b/>
-fragments <b/>
-intents <b/>
-scrollView <b/>
-broadcast Receiver <b/>
-viewpager <b/>
+practicing__
+fragments__
+intents__
+scrollView__
+broadcast Receiver__
+viewpager__
+<br />
 ![login](https://i.imgur.com/Be1p2iO.png)
 ![login](https://i.imgur.com/7kdNAwv.png)
 ![login](https://i.imgur.com/NrbOJeS.png)
